@@ -1,3 +1,5 @@
+package learning;
+
 public class fourSquaRES {
     public static void main(String args[]){
         int n = 7;
