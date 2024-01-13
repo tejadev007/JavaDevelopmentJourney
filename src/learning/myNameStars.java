@@ -1,4 +1,3 @@
-package learning;
 
 public class myNameStars {
     public static void main(String args[]){

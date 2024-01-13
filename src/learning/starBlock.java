@@ -1,4 +1,3 @@
-package learning;
 
 public class starBlock {
     public static void main(String args[]){
