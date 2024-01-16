@@ -1,3 +1,5 @@
+package learning;
+
 public class bShapeStars {
     public static void main(String args[]){
         int n=20;
