@@ -14,5 +14,11 @@ class dog {
         System.out.println(dg.name);
         dg.walk();
         dg.asked();
+
+        dog dg1 = new dog();
+        System.out.println(dg1.age);
+        System.out.println(dg1.name);
+        dg1.walk();
+        dg1.asked(); 
     }
 }
