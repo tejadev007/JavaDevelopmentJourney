@@ -20,5 +20,6 @@ class dog {
         System.out.println(dg1.name);
         dg1.walk();
         dg1.asked(); 
+        //We can create mutiple objects with a single class!
     }
 }
