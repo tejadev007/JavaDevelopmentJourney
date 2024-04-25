@@ -1,5 +1,5 @@
 package learning.OopsConcepts;
-
+// This program is based on the concepts learned in the telsuko website
 public class Calculator {
     int num1,num2, res;
 
