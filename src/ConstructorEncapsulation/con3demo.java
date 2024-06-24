@@ -1,19 +1,18 @@
 package ConstructorEncapsulation;
 
-class Dog1 {
+class Dog2 {
     private String name;
     private int age;
     private int cost;
 
-    public Dog1(String name, int age, int cost) {
-        super(); // Super method is already there even if i dont write it here. 
+    public Dog2(String name, int age, int cost) {
+        super(); // Super method is already there even if i dont write it here.
         this.name = name;
         this.age = age;
         this.cost = cost;
     }
 
-    public Dog1() {
-        super();
+    public Dog2() {
         System.out.println("Zero parameterized constructor");
     }
 
@@ -42,16 +41,11 @@ class Dog1 {
     // }
 }
 
-public class con2demo {
+public class con3demo {
     public static void main(String[] args) {
-        Dog1 d1 = new Dog1();
-        System.out.println(d1.getCost());
-        System.out.println(d1.getName());
-        System.out.println(d1.getAge());
-
-        Dog1 d2 = new Dog1("teJa", 2, 2000);
-        System.out.println(d2.getCost());
-        System.out.println(d2.getName());
+        Dog2 d2 = new Dog2("sheu", 4, 14000);
         System.out.println(d2.getAge());
+        System.out.println(d2.getName());
+        System.out.println(d2.getCost());
     }
 }
