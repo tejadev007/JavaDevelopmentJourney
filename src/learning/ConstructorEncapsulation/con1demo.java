@@ -1,4 +1,4 @@
-package ConstructorEncapsulation;
+package learning.ConstructorEncapsulation;
 
 class Dog {
     private String name;

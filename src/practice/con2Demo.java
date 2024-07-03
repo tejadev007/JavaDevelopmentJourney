@@ -32,5 +32,6 @@ public class con2Demo {
         System.out.println(d1.getAge());
         System.out.println(d1.getCost());
 
+        
     }
 }
