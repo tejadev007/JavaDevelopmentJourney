@@ -6,7 +6,7 @@ class Dog1 {
     private int cost;
 
     public Dog1(String name, int age, int cost) {
-        super(); // Super method is already there even if i dont write it here. 
+        super(); // Super method is already there even if i don't write it here. 
         this.name = name;
         this.age = age;
         this.cost = cost;

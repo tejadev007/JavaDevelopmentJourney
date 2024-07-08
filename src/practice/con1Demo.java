@@ -1,6 +1,6 @@
 package practice;
 
-class Dog {
+class Dog44 {
     private String name;
     private int age;
     private int cost;
@@ -31,7 +31,7 @@ class Dog {
 }
 public class con1Demo {
     public static void main(String[] args) {
-        Dog d1 = new Dog();
+        Dog44 d1 = new Dog44();
         d1.setName("TeJa");
         d1.setAge(20);
         d1.setCost(12000);
