@@ -1,0 +1,11 @@
+1)  A constructor can be referred as special type of setter
+where the name is that of a class name and it is invoked 
+during the object creation and also it  doesn't have any 
+explicit return type.
+2)  If there is a call to constructor and programmer has 
+not included any constructor in a class then java compiler 
+include a default constructor.
+3)  However, progrmmer has included any constructor, weather 
+is parameterized or zero parameterized, then javac would not 
+include any default cinstructor.
+"Using public access specifier is recommended to the constructor"
