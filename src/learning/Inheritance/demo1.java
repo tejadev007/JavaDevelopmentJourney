@@ -1,4 +1,4 @@
-package learning.inheritance;
+package learning.Inheritance;
 
 public class demo1 {
     public static void main(String[] args) {
