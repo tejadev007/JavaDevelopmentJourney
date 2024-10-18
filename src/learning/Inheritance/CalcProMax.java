@@ -1,4 +1,4 @@
-package learning.inheritance;
+package learning.Inheritance;
 
 public class CalcProMax extends CalcPro{
     int multi(int a, int b){
