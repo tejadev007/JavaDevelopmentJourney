@@ -1,4 +1,4 @@
-package learning.inheritance;
+package learning.Inheritance;
 
 public class Calc {
     int add(int a, int b){

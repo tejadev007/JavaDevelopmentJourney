@@ -1,4 +1,4 @@
-package learning.inheritance;
+package learning.Inheritance;
 
 class A{
     void run(){

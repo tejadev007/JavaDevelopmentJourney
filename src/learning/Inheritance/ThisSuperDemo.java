@@ -1,4 +1,4 @@
-package learning.inheritance;
+package learning.Inheritance;
 
 class P {
     int num = 9;
