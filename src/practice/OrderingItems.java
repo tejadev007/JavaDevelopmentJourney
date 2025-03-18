@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import java.util.ArrayList;
 
-public class OrderItems {
+public class OrderingItems {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> orderItems = new ArrayList<>();
